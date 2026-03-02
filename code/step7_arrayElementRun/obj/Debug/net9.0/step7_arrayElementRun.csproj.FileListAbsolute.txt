@@ -1,0 +1,15 @@
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\bin\Debug\net9.0\step7_arrayElementRun.exe
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\bin\Debug\net9.0\step7_arrayElementRun.deps.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\bin\Debug\net9.0\step7_arrayElementRun.runtimeconfig.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\bin\Debug\net9.0\step7_arrayElementRun.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\bin\Debug\net9.0\step7_arrayElementRun.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.AssemblyInfo.cs
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.sourcelink.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\refint\step7_arrayElementRun.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\step7_arrayElementRun.genruntimeconfig.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\step7_arrayElementRun\obj\Debug\net9.0\ref\step7_arrayElementRun.dll
