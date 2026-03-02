@@ -1,0 +1,15 @@
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\bin\Debug\net9.0\Step3_WeatherChoice.exe
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\bin\Debug\net9.0\Step3_WeatherChoice.deps.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\bin\Debug\net9.0\Step3_WeatherChoice.runtimeconfig.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\bin\Debug\net9.0\Step3_WeatherChoice.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\bin\Debug\net9.0\Step3_WeatherChoice.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.AssemblyInfo.cs
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.sourcelink.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\refint\Step3_WeatherChoice.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\Step3_WeatherChoice.genruntimeconfig.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step3_WeatherChoice\obj\Debug\net9.0\ref\Step3_WeatherChoice.dll
