@@ -1,0 +1,15 @@
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\bin\Debug\net9.0\Step4_TipsCalculator.exe
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\bin\Debug\net9.0\Step4_TipsCalculator.deps.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\bin\Debug\net9.0\Step4_TipsCalculator.runtimeconfig.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\bin\Debug\net9.0\Step4_TipsCalculator.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\bin\Debug\net9.0\Step4_TipsCalculator.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.AssemblyInfo.cs
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.sourcelink.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\refint\Step4_TipsCalculator.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\Step4_TipsCalculator.genruntimeconfig.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step4_TipsCalculator\obj\Debug\net9.0\ref\Step4_TipsCalculator.dll
