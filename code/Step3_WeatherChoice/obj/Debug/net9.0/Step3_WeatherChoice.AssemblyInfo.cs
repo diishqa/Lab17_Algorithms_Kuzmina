@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Step3_WeatherChoice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f60ec6fdb8bd33e0aac7663b1433b143fc4d5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3220de118d0bde555570d11810d2fce1982679e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Step3_WeatherChoice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Step3_WeatherChoice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
