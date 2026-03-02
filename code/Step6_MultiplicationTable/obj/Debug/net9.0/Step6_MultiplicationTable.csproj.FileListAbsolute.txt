@@ -1,0 +1,15 @@
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\bin\Debug\net9.0\Step6_MultiplicationTable.exe
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\bin\Debug\net9.0\Step6_MultiplicationTable.deps.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\bin\Debug\net9.0\Step6_MultiplicationTable.runtimeconfig.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\bin\Debug\net9.0\Step6_MultiplicationTable.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\bin\Debug\net9.0\Step6_MultiplicationTable.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.AssemblyInfo.cs
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.sourcelink.json
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\refint\Step6_MultiplicationTable.dll
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.pdb
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\Step6_MultiplicationTable.genruntimeconfig.cache
+C:\Users\Diana\Documents\Lab17_Algorithms_Kuzmina\code\Step6_MultiplicationTable\obj\Debug\net9.0\ref\Step6_MultiplicationTable.dll
